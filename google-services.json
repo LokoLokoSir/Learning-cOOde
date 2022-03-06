@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338573343849",
+    "project_id": "aprendendo-database",
+    "firebase_url": "https://aprendendo-database-default-rtdb.firebaseio.com/",
+    "storage_bucket": "aprendendo-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338573343849:android:db34f83c7e929762f736f8",
+        "android_client_info": {
+          "package_name": "com.osmanostcc.learningcoode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338573343849-3r8570kmv0togi8ur235ek0urra1k7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawZk1MPGQej4rCSXGAV5aLhVWOtoYP_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338573343849-3r8570kmv0togi8ur235ek0urra1k7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
