@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 58747b722c92e9549ba6f7e2f9f71999
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3734345372764515286
+    second: "Port\xE3o_0"
+  - first:
+      213: -8208860516444276348
+    second: "Port\xE3o_1"
+  - first:
+      213: -1069681136407969539
+    second: "Port\xE3o_2"
+  - first:
+      213: 1685539391393491159
+    second: "Port\xE3o_3"
+  - first:
+      213: -8933725196364139093
+    second: "Port\xE3o_4"
+  - first:
+      213: -6435557767456144494
+    second: "Port\xE3o_5"
+  - first:
+      213: 3413883961544286521
+    second: "Port\xE3o_6"
+  - first:
+      213: 276870090181627396
+    second: "Port\xE3o_7"
+  - first:
+      213: 3479663587985481920
+    second: "Port\xE3o_8"
+  - first:
+      213: -3463874289211678201
+    second: "Port\xE3o_9"
+  - first:
+      213: -4145553597479328044
+    second: "Port\xE3o_10"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Port\xE3o_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dba044c45f03d330800000000000000
+      internalID: 3734345372764515286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Port\xE3o_1"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489fb9a4ad4441e80800000000000000
+      internalID: -8208860516444276348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Port\xE3o_2"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 51
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df087718caab721f0800000000000000
+      internalID: -1069681136407969539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Port\xE3o_3"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8efe6652d346710800000000000000
+      internalID: 1685539391393491159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Port\xE3o_4"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba532cd4448050480800000000000000
+      internalID: -8933725196364139093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Port\xE3o_5"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293454bbe4e40b6a0800000000000000
+      internalID: -6435557767456144494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Port\xE3o_6"
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312040206d806f20800000000000000
+      internalID: 3413883961544286521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Port\xE3o_7"
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ec43e41e3a7d300800000000000000
+      internalID: 276870090181627396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Port\xE3o_8"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c06cb3e89f3a4030800000000000000
+      internalID: 3479663587985481920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Port\xE3o_9"
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 18
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702ede4bfa8ddefc0800000000000000
+      internalID: -3463874289211678201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Port\xE3o_10"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 49
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6e6e897f80876c0800000000000000
+      internalID: -4145553597479328044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Port\xE3o_3": 1685539391393491159
+      "Port\xE3o_1": -8208860516444276348
+      "Port\xE3o_6": 3413883961544286521
+      "Port\xE3o_0": 3734345372764515286
+      "Port\xE3o_9": -3463874289211678201
+      "Port\xE3o_10": -4145553597479328044
+      "Port\xE3o_7": 276870090181627396
+      "Port\xE3o_2": -1069681136407969539
+      "Port\xE3o_8": 3479663587985481920
+      "Port\xE3o_5": -6435557767456144494
+      "Port\xE3o_4": -8933725196364139093
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
